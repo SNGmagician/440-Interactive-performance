@@ -72,7 +72,7 @@ function draw() {
         */
         threshold = bright;
       } else {
-        fill(0, 25, 150, 10);
+        fill(0, 203, 184, 10);
         /*
         pixels[index + 0] = 0;
         pixels[index + 1] = 25;
